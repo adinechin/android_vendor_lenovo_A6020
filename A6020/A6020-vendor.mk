@@ -28,6 +28,8 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
     vendor/lenovo/A6020/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/lenovo/A6020/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
+    vendor/lenovo/A6020/proprietary/bin/wcnss_service:system/bin/wcnss_service \
+		vendor/lenovo/A6020/proprietary/etc/wifi/WCNSS_qcom_cfg.ini:system/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/lenovo/A6020/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/lenovo/A6020/proprietary/vendor/bin/vm_bms:system/vendor/bin/vm_bms \
     vendor/lenovo/A6020/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
